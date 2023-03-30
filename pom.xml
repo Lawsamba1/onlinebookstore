@@ -72,4 +72,9 @@
 			<version>3.1.0</version>
 		</dependency>
 	</dependencies>
+	<Property>
+        <sonar.host.url>http://172.31.30.104:9000/</sonar.host.url>
+    <sonar.login>admin</sonar.login>
+    <sonar.password>admin</sonar.password>
+      </Property>
 </project>
